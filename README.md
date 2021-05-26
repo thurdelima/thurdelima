@@ -7,7 +7,7 @@ I'm learning at the moment **Ruby and Python**
 
 [![Linkedin Badge](https://img.shields.io/badge/-thurdelima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-lima-294ab0103/)](https://www.linkedin.com/in/arthur-lima-294ab0103/)
 
-[![Gmail Badge](https://img.shields.io/badge/-natansl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thurdelima@gmail.com)](mailto:thurdelima@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-thurdelima@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thurdelima@gmail.com)](mailto:thurdelima@gmail.com)
 
 ## 🚀💻 Technologies & Tools
 
@@ -15,7 +15,7 @@ I'm learning at the moment **Ruby and Python**
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
