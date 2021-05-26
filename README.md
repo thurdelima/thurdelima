@@ -5,7 +5,7 @@
 
 I'm learning at the moment **Ruby and Python**
 
-[![Linkedin Badge](https://img.shields.io/badge/-natansl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-lima-294ab0103/)](https://www.linkedin.com/in/arthur-lima-294ab0103/)
+[![Linkedin Badge](https://img.shields.io/badge/-thurdelima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-lima-294ab0103/)](https://www.linkedin.com/in/arthur-lima-294ab0103/)
 
 [![Gmail Badge](https://img.shields.io/badge/-natansl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thurdelima@gmail.com)](mailto:thurdelima@gmail.com)
 
