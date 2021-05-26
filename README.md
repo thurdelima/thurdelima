@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-<h1 align = "justify"> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Arthur Lima</h1>
+<h1 align = "justify"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Arthur Lima</h1>
 <p align = "justify">Full-stack Developer, Coffee lover, Javascript and other languages. </p>
 
 I'm learning at the moment **Ruby and Python**
